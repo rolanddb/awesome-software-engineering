@@ -17,6 +17,7 @@ A curated list of resources that help you be a better software engineer. These r
 * [Good devs don't like magic](http://tatiyants.com/good-devs-dont-like-magic/)
 * [Simple, correct, fast: in that order](https://drewdevault.com/2018/07/09/Simple-correct-fast.html)
 * [John Ousterhout - My favourite sayings](https://web.stanford.edu/~ouster/cgi-bin/sayings.php)
+* [Notes to myself on Software Engineering - Francois Chollet](https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d)
   
 # Concepts
 * [Technology readiness level](https://en.wikipedia.org/wiki/Technology_readiness_level)
